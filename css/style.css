@@ -149,6 +149,7 @@ img {
 .btn-outline {
 	background-color: transparent;
 	border: 1px solid #fff;
+	color: #fff;
 }
 
 .showcase-text {
